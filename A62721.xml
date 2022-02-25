@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the high &amp; honourable the legal earthly supreame povver of England, the representive body thereof, the Commons elective in Parliament assembled with authority only for the weale, but not for the woe of the people. The just petition of the free-borne commoners of the county of [blank] whose names are hereunto subscribed, earnestly desiring, the prosperity of the gospell, the removall of bad, the setlement of just lawes, the freedome of this nation, and the peace and tranquilety of all men.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62721</idno>
+            <idno type="STC">Wing T1397A</idno>
+            <idno type="STC">ESTC R219762</idno>
+            <idno type="EEBO-CITATION">99831210</idno>
+            <idno type="PROQUEST">99831210</idno>
+            <idno type="VID">35673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35673)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2115:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the high &amp; honourable the legal earthly supreame povver of England, the representive body thereof, the Commons elective in Parliament assembled with authority only for the weale, but not for the woe of the people. The just petition of the free-borne commoners of the county of [blank] whose names are hereunto subscribed, earnestly desiring, the prosperity of the gospell, the removall of bad, the setlement of just lawes, the freedome of this nation, and the peace and tranquilety of all men.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy stained, affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and Government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:35673:1" rendition="simple:additions"/>
+            <head>To the high &amp; Honourable the Legal Earthly ſupreame Power of <hi>England,</hi> the repreſentive Body thereof, the Commons e<g ref="char:EOLhyphen"/>lective, in Parliament Aſſembled with Authority only for the weale, but not for the woe of the people.</head>
+            <head type="sub">The juſt petition of the free-borne Commoners of the County of whoſe names are hereunto ſubſcribed, earneſtly de<g ref="char:EOLhyphen"/>ſiring, the proſperity of the Goſpell, the removall of bad, the ſetlement of juſt Lawes, the freedome of this Nation, and the peace and tran<g ref="char:EOLhyphen"/>quilely of all men.</head>
+            <opener>Sheweth,</opener>
+            <p>THat whereas the life and ſpirit of true Magiſtracy doth eſſentially conſiſt of Juſtice and Mercy, and the weal and happineſſe of all pollitick Bodyes in the free and impartiall ex<g ref="char:EOLhyphen"/>ecution thereof; inſomuch, that neither juſt Magiſteriall Authority can be without the one, nor yet the ſafety of a people without the other, thoſe being the maine Pillars, whereon all humaine Authority, and all publick ſafety are ſetled, and ſtayed; ſo that, no ſooner that thoſe Divine Pillars are battered, and ruined, but the Fabrick of the Common-wealth tum<g ref="char:EOLhyphen"/>bleth down (as it were headlong) into utter confuſion, and hath its being diſſolved forth<g ref="char:EOLhyphen"/>with: Government if degenerate from Mercy and Juſtice looſeth its true Magiſteriall Be<g ref="char:EOLhyphen"/>ing, and every po<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tick Body deprived of Execution thereof, looſeth its freedome, and fall<g ref="char:EOLhyphen"/>eth into Bondage; And that people are thereby (even from the principles of nature) in<g ref="char:EOLhyphen"/>ſtated into a juſt capacity of reſiſtance, and utterly from their obedience to ſuch Rulers abſolved, <hi>except</hi> (to uſe your owne words)<note n="a." place="margin">Declar. 2. <hi>Novem.</hi> 1646. Bo. Dec 1. par. p. 696. &amp; pag. 150.</note>. <hi>that obedience binds men to cut their owne throats,</hi> but that your ſelves doe deny, and plainly in the ſaid Decl. affirme <hi>that in ſuch caſes nature teacheth every man to provide for his ſafety, and elſe</hi>
+               <g ref="char:EOLhyphen"/>where you tell us;<note n="b." place="margin">Decl. 19. May. 1642. 1. par. Bo. Dec. p. 207.</note>. <hi>that this Law is as old as the Kingdome, that the Kingdome muſt not be without a meanes to preſerve it ſelfe;</hi> the Kingdom and people while the owne and the other hath being, muſt ever be ſuppoſed and granted, to have this radicall principall of nature inherent, to provide in all ſtraits for their ſafety, as a thing juſtiſiable by the Law of God, of nature, and of Nations; or elſe were wee worſe then the bruit Beaſts of the field, who by the very in<g ref="char:EOLhyphen"/>ſtinct of nature engraven in their hearts, will to the utmoſt of their power ſave and defend themſelves from all violence, miſchief: and ſure no juſt priveledg or prerogative in Rulers can deſire,<note place="margin">King Iam. Speech in par<g ref="char:punc">▪</g> at White Hall, 1609. pub. by his preſ. par</note> that men ſhould be worſe then Beaſts: and this principall is backed with the Teſtimony of King James, who Poſitively ſaid <hi>that a King Governing in a ſetled Kingdome leaves to be</hi> a <hi>King, and degenerats into a Tyrant. as ſoone as he leaves of to rule according to his Lawes:</hi> and if no longer King no longer obedience is due for Regall<gap reason="illegible: scratched out" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty and obedience are relative.</p>
+            <p>And therefore the late Politick Government of this Kingdome being degenerate from juſt Royalty, to lawleſſe Tyrany, the Parliament and people roſe up in Armes as one man againſt the King and his partie, for their preſervation, for redemption and recovery, of their Lawes and Freedomes out of the hands of violent Vſurpers and Tyrants in which juſt expedition your Petitioners have liberally and freely engaged their blood and Trea<g ref="char:EOLhyphen"/>ſure, &amp;c. faithfully with you perſevering to the end.</p>
+            <p>Yet now ſo it is Right Honourable your Petitioners find themſelves in no wiſe eaſed or redreſſed, but on the contrary, themſelves and the whole Commons of England, eſpe<g ref="char:EOLhyphen"/>cially the well affected Partie, your moſt faithfull friends and Aſſiſtants encumbred and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with Oppreſſions and Oppreſſors no leſſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Tyrannicall than the For<g ref="char:EOLhyphen"/>mer;
+<pb facs="tcp:35673:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:35673:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:35673:3" rendition="simple:additions"/>new devices dayly hammered and hammering out againſt them to diſinherit and de<g ref="char:EOLhyphen"/>prive them of the <hi>Purchace of their blood,</hi> their Nationall freedome and ſafety: and which to the publick is moſt obnoctious and dangerous of all, the Fundamentals and Pillars upon which the whole Fabrick of this Commonwealth is founded and errected we find moſt deſperately undermined and allmoſt ruined, the great Charter of, England, where<g ref="char:EOLhyphen"/>by we hold our Lives, our Lands, our Goods and Freedomes (formerly <gap reason="illegible: scratched out" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> times by ſeverall Parliaments confirmed to us and our poſterities is now through the inſolent domi<g ref="char:EOLhyphen"/>nation of the Prerogative men of the Kingdome made ſo voide and of ſo little effect, that the maintainers and ſtrict obſervers thereof are therefore impriſoned, toſſed and tum<g ref="char:EOLhyphen"/>bled from Goal unto Goal, Sentenced, Fined, Drag'd worſe then Dogges, (without all remorſe or reſpect either to tender infancy, weakneſſe of Sexe or conſtitution) headlong through the dirt and the mire, beat and abuſed by mercileſſe Goalers, laid in fetters and irons, the husband deprived of wife, the wife of husband, the one thrown into one Goal, the other into another, and their innocent helpleſſe children like deſtitute Orphans expoſed to the mercy of the World, &amp;c. and yet notwithſtanding no reliefe can be obtained from this Houſe, though daily ſolicited and Petitioned by themſelves, and lately in their be<g ref="char:EOLhyphen"/>halfe by almoſt ten thouſand of the Gentlemen and Yeomen the Counties of Buckingham Shire, and Hartford Shire, whoſe requeſts for them were ſo reaſonable equall and juſt, as might juſtly expect acceptance from Infidels, Pagans, and Turkes, to wit, that they might be forthwith brought to the tryall and determination of this Houſe (to whom they have appealed) either for their ſpeedy condemnation or juſtification, a benefit not to be denyed to Murtherers, Burglars and Felons, and yet (to the great diſhonour of this Houſe vexation of your Petitioners, and of other the free men of <hi>England</hi>) our brethren and fel<g ref="char:EOLhyphen"/>low Commoners of the aforeſaid Counties, could not obtaine from this Houſe (after 8. or 9. dayes attendance and ſolicitation) ſo much as a reading of their petition therein, but be<g ref="char:EOLhyphen"/>ing ſleighted and rejected, were forced to depart to their Counties againe, much diſpleaſed and diſcontented at this Houſe, even in diſpaire, and hopeleſſe of any benefit thereby. Though formerly this Parliament hath declared,<note n="*" place="margin">Decl. 2. <hi>Nov.</hi> 1642. b. Decl. 1 part. pag. 720. 1 par. bo. Decl. pag. 123.201.202.209.548.</note> 
+               <hi>that they are bound to re<g ref="char:EOLhyphen"/>ceive Petitions for the removall of things though eſtabliſhed by Law, that by ex<g ref="char:EOLhyphen"/>perience are found grievous or burthen ſome:</hi> If ſo, then how are your honours degenerate now, thus to ſlight the Countries, and reject their petitions, which are according to the Fundementall Lawes of the Land, and for no other reliefe then according thereto<g ref="char:punc">▪</g> Theſe and manifold other oppreſſi<g ref="char:EOLhyphen"/>ons, cruelties, and tyrannies (like <hi>Aegyptian</hi> Graſhoppers) overſpread and devoure the Land, nothing but confuſion, and diſorder appearing, privi<g ref="char:EOLhyphen"/>ledges and prerogative unbounded, will, luſt and ave<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice advancing into the Throne, &amp;c.</p>
+            <p>But now Right Honourable be not offended with us at our greivous Complaints, it is the Commons which are oppreſſed; give therefore the oppreſſed leave to Complain, for it is moſt barberous and inhumaine to oppreſſe, and then to ſtop the mouth of the oppreſſed; let therefore our cryes come freely before you, and obtain ſpeedy redreſſe: it is that which we expect, and that which you cannot juſtly deny us without violation even of the very end of your Parliamentary being, your Election and Seſſion therein.</p>
+            <p>We therefore your Brethren and fellow Commoners being in this diſtreſſed dangerous condition, and not being able to ſuffer our Laws and freedoms to be utterly laid waſt and deſtroyed, and not to endeavour our and their juſt preſervation and defence, have thought it our duties to God, to our native Country, to our ſelves and poſterities; to preſent (amongſt manifold other) ſome certaine publick diſorders and oppreſſions, with ſome wholeſom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meanes o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to your wiſe and grave conſideration, earneſtly deſiring (as you tende<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:35673:3" rendition="simple:additions"/>the weale and glory of this Nation, the intereſt and freedom of the commons thereof) to graunt us without all further delayes or demmurres a happy conſumation of theſe out ſub<g ref="char:EOLhyphen"/>ſequent juſt deſires, hereunto Annexed.</p>
+            <p>
+               <hi>And your petitioner as in duty bound ſhall ever pray &amp;c.</hi>
+            </p>
+            <div type="articles">
+               <head>Articles concerning your Petitioners in this Capacity of Commoners or free men of <hi>England,</hi> which on the behalfe of themſelves and all others their fellow Commoners of <hi>England</hi> they do humbly deſire as followeth.</head>
+               <list>
+                  <item>1. That the fundamentall Birth-right and propriety of the people, in their Election and conſtitution of Re<g ref="char:EOLhyphen"/>preſentors and Deputie, to ſit and act in their Parliamentarie affaires, may be fully reſtored, ſetled and ſecured <gap reason="illegible: scratched out" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o entire and inviolable in the hands and power of the free Commoners of <hi>England,</hi> that no pretended prerogative, or other priviledge whatſoever may ſuſpend, obſtruct or make void the a miſſion or ſeſſion of any Members which are or ſhall be Elected and conſtituted by the Counties, Cities, Townes and Burroughes of the Realme for their reſpective repreſentor or deputies. And that for the futurre, the Election and expulſion of the Elected may be ſo ſetled in the Electors that that none may be hindred, debard, or expulſed from ſerving his Country under any colour or pretence whatſoever, or for refuſing the Covenant or otherwiſe without order <gap reason="illegible: scratched out" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rſt, aſſent or con<gap reason="illegible: scratched out" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur<g ref="char:EOLhyphen"/>rence of their Countrey. And that from henceforth the Commons of the ſeverall Countrie, Cities, Townes and Burroughs of the land, may have full power to remove and diſplace their reſpective Repreſentors and Deputies in Parliament (elected only for their weale) which ſhall falſifie their truſt, betray their Countries Rights or free<g ref="char:EOLhyphen"/>domes, or ſhall doe any thing apparently tending to the introduction of an arbitraty Power or government what<g ref="char:EOLhyphen"/>ſoever, Or ſhall refuſe to preſent the Petitions, complaints or grievances of their reſpective Counties, Cities, Townes and Burroughs to this Houſe, or ſhall not endeavour their redreſſe. And upon ſuch expulſion or remove<g ref="char:EOLhyphen"/>all to elect and ſend others which ſhall be more faithfull and ſerviceable in their truſt.</item>
+                  <item>2. That there may be a due and equall number of Members to ſit in Parliament, for the future elected in all the Counties of <hi>England</hi> according to their reſpective extents and limits, quantity for quantitie<g ref="char:punc">▪</g> That all Member in the Houſe may be equally Repreſentative and all the parties of the Kingdome be equally repreſented, and none have greater priviledge then other; but as all muſt be ſubject to the executative power of the Law, ſo all may have an equall title and intereſt in the Legiſlative power of the Law. Provided that it be ſo ordered, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s that the ſeverall Counties, Cities, Townes, and Burroughs elect in the generall, no more then a Competent number.</item>
+                  <item>3. That every Engliſh man, which muſt be ſubject to the Lawes and Acts of Parliament, may have his free ad<g ref="char:EOLhyphen"/>miſſion of voice in the Election of Knights and Burgeſſes, with the greateſt Subject.</item>
+                  <item>4. That for the better ſecurity of the intereſt and power of the People all titles, by Prerogative, Privivi<g ref="char:EOLhyphen"/>ledge, Pattent, Succeſſion, Peerage, Birth or otherwiſe to ſit and act in the Aſſembly of Parliament, contrary to, and without the free choice and Election of the People, be utterly abbrogated, nuld and made void, and that all ſuch ſo ſitting, may be removed from ſitting therein.</item>
+                  <item>5. That all Statutes, Acts and Ordinances whatſoever, be from henceforth drawne up and publiſhed only in the name of the repreſentative body of the Commons of England aſſembled at <hi>Weſtminſter</hi> or where elſe ſhall be the place of their Seſſion.</item>
+                  <item>6. That the authority of this Honourable houſe may be preſerved and ſecured for the future from the obſtru<g ref="char:EOLhyphen"/>ctions and prejudice of a negative voice in any perſon or perſons whatſoever, which may diſinable your Honours from the paſſing and eſtabliſhing any act or acts, for the weale and ſafety of the people.</item>
+                  <item>7. That no man may be admitted to the office of Member ſhip in Parliament, or any other Office in the Land, but for one yeare, except by a new free Election, and that at every yeares end, to give an exact accompt of his fidelity and ſervice upon his removall, and before his readmiſſion, in caſe of a new Election.</item>
+                  <item>8. That every County may have liberty to chooſe ſome certaine number amongſt themſelves, to inquire and preſent to the Parliament, what be the juſt Lawes, Cuſtomes and Priviledges of each Countie<g ref="char:punc">▪</g>
+                     <p>And that thoſe Countie Commiſſioners, be bound to receive all and every impeachment, and impeachments by any perſon or perſons whatſoever, of the reſpective Counties, againſt any of their owne reſpe<g ref="char:EOLhyphen"/>ctive Knights or Burgeſſes in Parliament, for falſifying and betraying his or their Countries truſt, or any wiſe in<g ref="char:EOLhyphen"/>deavonring the introduction of an arbitrary power in this Land. And that the ſaid Commiſſioners have power and be firmly bound to impeach and attach in the name of their reſpective Counties, their ſaid Member or Members, and to bring him or them to a legall and publique tryall. That in caſe ſuch be found guilty, juſtice may be executed and others in their roome, by the free choyce of the people be ſent. And in caſe any ſuch Commiſſi<g ref="char:EOLhyphen"/>oner, or Commiſſioners ſhall refuſe to proſecute any ſuch complaint or impeachment, that then he or they be ad<g ref="char:EOLhyphen"/>judged guilty of treaſon.</p>
+                  </item>
+                  <item>9. That the Houſe of Commons ſhall not agree unto, or make any Statute Law, contradicttory to the juſt maximes of the Common Law, or any of them. Neither ſhall any ſuch Act, be binding for the time to come
+<pb n="4" facs="tcp:35673:4"/>But that ſtrong proviſion be made againſt all ſuch Acts paſt or to be paſt.</item>
+               </list>
+            </div>
+            <div type="list">
+               <head>Articles concerning Courts of Judicature, offices and Officers of the Law.</head>
+               <list>
+                  <item>1. That all Courts which are not eſtabliſhed by the old Law of the Land: and all illegall offices, and officers, belonging to the ſame, and all other vexations and unneceſſary Courts, be aboliſhed by act of this preſent Parlia<g ref="char:EOLhyphen"/>ment. And that proviſion be made that for time to come, no Courts or Officers whatſoever may be obtruded up<g ref="char:EOLhyphen"/>on the free Commoners of England, either by royall grant, Patent, Act of Parliament, or otherwiſe contrary to the old Law of the Land.</item>
+                  <item>2. That according to the old Law and cuſtome of the Land, long before the Conqueſt. There may be Courts of Iudicature for the ſpeedy tryall and determination of all cauſes, whether Criminall or Civill, erected and eſtabliſhed in every Hundred, for the eaſe and benefit of the Subject, to be holden according to the old Cuſtome twice every month, for the ending of all cauſes Criminall and Civill whatſoever, which ſhall happen in the reſpective Hundreds. That the Free men of England may have a ſudden, quick and eaſie diſpatch of their ſuits, and be eaſed olſo of their vexations and chargeable travelings from all parts of the Kingdome, for proceſſe and tryall of their ſuits unto <hi>Weſtminſter</hi>-Hall.</item>
+                  <item>3. That all ſuch Officers, as by the antient and common Lawes of this Nation, are illegible, and to be choſen by the free Commons, as Mayors, Sheriffes, Iuſtice of peace, &amp;c. may be left to the free Election of the people, in their reſpective places, and not otherwiſe to be choſen. And that all ſuch publique affaires (now in being) Not ſo elected and allowed, may be forthwith removed, and others by the free choice of the People be conſtituted into their roomes.</item>
+               </list>
+            </div>
+            <div type="list">
+               <head>Articles concerning Gaoles, Gaolers and Impriſonment.</head>
+               <list>
+                  <item>1. That the extortions, and oppreſſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ive foes of Gaolers may be redreſſed and eaſed, and that ſtrict and ſevere previſion be made againſt all Gaolers, and their deputias, to reſtrane them for the future from the like extortions and Cruelties, now frequent in all the Gaoles of the Land. And that there may be a ſtrict and ſevere Inquiſition after the blood of ſuch priſoners as have been murthered and ſtarved by the cruelties of Gaolers, that ſo the per<g ref="char:EOLhyphen"/>ſons, guilty thereof may have juſtice execmed upon them.</item>
+                  <item>2. That no Priſoners be put in Irons, or to other paine before conviction and condemnation.</item>
+                  <item>3. That there may be cleanly and wholeſome proviſion made in all the Gaoles of England, for the lodging of Priſoners at the charge and coſt of the State, And that no Fees for Chamber-rent, for entring or diliverance or any thing in lieue thereof, be exacted or demanded under a ſevere penalty upon the Exactors who are in that caſe to be proceeded againſt, and judged as for matters of theft.</item>
+                  <item>4. That all perſons committed for treaſon or murther, that ſhall breeke priſon or attempt an eſcape, if diſco<g ref="char:EOLhyphen"/>vered and apprehended, be taken <hi>pro Confiſſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> and dye without mercy. And that ſuch as are committed for theft and ſhall make an eſcape, upon their apprehenſion, be put to perpetuall Servitude for the benefit of the State.</item>
+                  <item>5. That neither the high Court of Parliament, nor any other inferior Court or Magiſtrate whatſoever may commit any free man of England to Priſon upon any pretended contempts as is frequent in theſe dayes, but only for tranſgreſſion and breach of the knowne Lawes of the land. And for the future (to award the free Commons of England from the revenge of Arbitrary Spirits.) That ſtrong proviſion be made by the Authority of this pre<g ref="char:EOLhyphen"/>ſent Parliament to that end.</item>
+                  <item>6. That there may be a ſevere penalty provided againſt all Gaolers and their Deputies which ſhall receive any perſon or perſons whatſoever, without a lawfull charge or commitment drawne up in writing according to the true forme of the Law, with a lawfull cauſe therein expreſſed, and with a lawfull concluſion him ſafely to keep untill he ſhal be delivered by due proceſſe of Law, according to <hi>Magna Charta,</hi> and the Petition of Right, and not at the will and pleaſure of the Committer.</item>
+                  <item>7. That ſtrong proviſion be made againſt all ſuch Gaolers as ſhall detaine any perſon or perſons in priſon after a lawfull diſcharge, as is frequent in all the Gaoles of the Land, whereby many poore free Commoners of Eng<g ref="char:EOLunhyphen"/>land have been ſtarved and dyed of hunger.</item>
+                  <item>8. That all ſuch Commoners as are impriſonned for the juſt maintenance of any lawfull intereſt and propriety, of the Commons of England, be forth with diſchargad (by order of this honourable Houſe) from their reſpective impriſonments, and that ample and due reparations. according to their reſpective dammages and ſufferings be an ſwerably and effectually conferred upon them.</item>
+                  <item>9. That all criminall perſons that are condemned and reprived may be acquit, and ſet free, and all perſons in
+<pb n="5" facs="tcp:35673:4" rendition="simple:additions"/>priſoned for debt or for any other pretended offences contrary to the fundamentall lawes of the Land, may be deliuered and ſet free out of priſon.</item>
+               </list>
+            </div>
+            <div type="list">
+               <head>Articles concerning the Lawes, and corruptions thereof with other publique Grievences.</head>
+               <list>
+                  <item>1. That all the Lawes of the Land (lockt up from common capacities in the Latine or French tongues, may be tranſlated into the Engliſh tongue. And that all Records, Orders, Proceſſes, Writs, and other proceedings what<g ref="char:EOLhyphen"/>ſoever may be all entered and iſſued forth in the Engliſh tongue, and that in the moſt plaine and Common Cha<g ref="char:EOLhyphen"/>racter uſed in the Land, commonly called Romand or Secretary, and that without all or any Latine or French Phraſes or tearmes, and alſo without all or any abreviations or abridgements of words, that ſo the meaneſt Eng<g ref="char:EOLhyphen"/>liſh Commoner that can but read written hand in his owne tongue, may fully underſtand his owne proceedings in the Law.</item>
+                  <item>2 That all exorbitant fees of Offices, and officers belonging to the Law of the Land, may be regulated and abated.</item>
+                  <item>3, That a more ſure and ſpeedy way of diſpatch of the ſuits of ſuch perſons, as through extreame proverty are not able to recover their properties and rights, may for the time to come be eſtabliſhed and ſetled in the Land.</item>
+                  <item>4. That no free Commoner of England be inforced or put either by the high Court of Parliament, or by any ſubordinate Court, Officer or Miniſter of Iuſtice, whatſoever in the Land to make oath, or to anſwer upon <gap reason="illegible: scratched out" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to any Interrogatories concerning himſelf in any criminall caſe, concerning his life, liberty, goods or free-hold. And that neither the High Court of Parliament, nor any ſubordinate court, officer or Miniſter whatſoever, be<g ref="char:EOLhyphen"/>fore Indictment, preſentment, verdict of 12. men, or other due proceſſe of Law, may take away any free Commo<g ref="char:EOLhyphen"/>ners life, liberty, goods, or free-hold, contrary to the State of <hi>Magna Charta,</hi> cap. 29.25. Ed. 3. c. 4.28. E. 3. c. 3.42. Ed 3. c. 3.1. Eliz. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar. 1. &amp;c.</item>
+                  <item>5. That all Statutes made for the compulſion of perſons to heare the Common Prayer Book, and for the ex<g ref="char:EOLhyphen"/>erciſe of other Popiſh Rits, and Ceremonies, may be abrogated and taken away, and that all and ſingular perſons indicted, impriſoned, or otherwiſe moleſted upon the aforeſoid Statutes, may be inlarged and relieved.</item>
+                  <item>6. That all Statutes made concerning Hunting, and preſervation of Game may be repealed.</item>
+                  <item>7. That all ſingle Orders, made by the Houſe of Lords, may be made voide.</item>
+                  <item>8. That whoſoever whether Parliament man, Noble man or Commoner ſhall impriſon, indict, or otherwiſe moleſt any free man of England, and ſhaſl not by due proceſſe of Law make good the charge and accuſation a<g ref="char:EOLhyphen"/>gainſt him, that the ſame perſon that proſecutes, (whatſoever he be) may ſuffer the ſame penalty, which by Law is due to ſuch crimes and offences, ſo uniuſtly charged. And that in ſuch caſes there may be a certain and effectu<g ref="char:EOLhyphen"/>all meane Provided, that the meaneſt Commoner ſo moleſted, wronged and abuſed, may obtaine ſpeedy and ex<g ref="char:EOLhyphen"/>emplary Iuſtice againſt the greateſt perſon or perſons whatſoever in the Land.
+<p>That neither Member ſhip in Parliament, office nor function, whatſoever in the Magiſtracy of the Land, may be any protection or demurre in any wiſe againſt the due proceſſe or courſe of the antient and common Lawes of this Realme, but that in all caſes of treaſon, murther, Burglary, and felonie, in all Actions, Suites; and civill proceedings whatſoever, the greateſt Man or men in the Realme, may be made equally lyable at all times and ſea<g ref="char:EOLhyphen"/>ſons, and in all places in the Land to the tryall, ſentence and execution of the law, with the meaneſt Commoner.</p>
+                  </item>
+                  <item>10. That no man may be condemned, put to death, or otherwiſe iudged for any capitall or triviall offence, whatſoever, but by the oath of two witneſſes, of good and honeſt converſation.</item>
+                  <item>11. That no man be outlawed but in caſe of treaſon, murther, burglary and felony, and that all outlaries for other offences or cauſes whatſoever heretofore promulgate be from hen<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>forth void.</item>
+                  <item>12. That all wicked perſons that ſhall beare falſe witneſſe againſt any free man of England concerning his life liberty, goods or free hold upon legall diſcovery and probation thereof, be adjudged, and condemned of their lives, liberties, and free holds, according to that which they would have done unto their Neighbors</item>
+                  <item>13 That according to the Law of God, and the old law of this land, (long before the Conqueſt, an eye for an eye, a tooth for a tooth, limbe for limbe, wound for wound, blood for blood, that the like may be recompenſed and replyed upon Malefactors reſpecively according to their crimes.</item>
+                  <item>14. That the cruell practiſe of impriſoning Debtors may be provided againſt, and that due Rights and proper<g ref="char:EOLhyphen"/>ties
+<pb n="6" facs="tcp:35673:5"/>may be recovered upon more mercifull tearmes then by way of Impriſonment, that the Ordinance for Debtors, now in the hands of Mr <hi>Henry Martin</hi> (Chair-man to a Com<g ref="char:EOLhyphen"/>mittee formerly by this Houſe Appointed for that end) may be paſſed, confirmed and eſta<g ref="char:EOLhyphen"/>bliſhed by the authority of this preſent Parliament.</item>
+                  <item>15. That according to the Law of God, and the old law of the land, matters of Theft may not be puniſhed with death, and that ſuch malefactors may make ſatisfaction either by juſt reſtitution to the party wronged, or by an anſwerable ſervitude, and that ſuch offen<g ref="char:EOLhyphen"/>ders upon the ſecond conviction (lawfully had) be brand markt viſibly in the moſt eminent part of their face, and confind to a ſingular habit, with badges on their ſleeves. And upon the third lawfull conviction, to be put to perpetuall ſervitude, for the benefit of the State, ſaving to the party wronged, a competent deduction thereout, for reſtetution according to the theft<g ref="char:punc">▪</g> that upon all occaſions of war, ſuch Bond men may be taken for the Milita<g ref="char:EOLhyphen"/>ry ſervice, and the impreſting of free men on that behalfe in ſome meaſure ſpared.</item>
+                  <item>16. That every Engliſh Native, who hath goods, wares and Merchandize, may have free dome to tranſport the ſame to any place beyond the Seas, and there to convert them to his owne profit, it being his true and proper inheritance to doe, according to the Statutes of 14. <hi>Ed.</hi> 3, 2. 12. <hi>Hen.</hi> 7.6, and therefore to the end the old trade ingroſing Company of Mer<g ref="char:EOLhyphen"/>chants, may be diſſolved, and the like for the future prevented.</item>
+                  <item>17. That a more ſtrict and ſevere law be provided againſt all S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ewes. Bawdes, and Whore-houſes, and againſt unlawfull Games and Gameſters, and againſt all exceſſive drinking and revelling</item>
+                  <item>18. That there may be a reduction of a multitude of Ale-houſes, that none but ſuch as have been and are of honeſt and good converſation, by the ſufficient teſtimony of honeſt men of their Neighbourhood, and through loſſes and croſſes are decayed in their eſtates or otherwiſe through age, ſickneſſe, or the like<g ref="char:punc">▪</g> are diſabled from the neceſſary maintenance of their charge, may only be admitted to ſell drinke, or to keep victualling<g ref="char:punc">▪</g>
+                  </item>
+                  <item>19. That ſuppreſſion of all vagrants and Beggars in all parts of the Realme may ſpeedily be provided for, by ſome wholeſome and effectuall courſe, as by the ordination and erecti<g ref="char:EOLhyphen"/>on of publique work-houſes for the State, as their ſhall be occaſion and neceſſity in the ſeve<g ref="char:EOLhyphen"/>rall Counties, Cities, Burroughs of the Realme.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Concerning the Clergy.</head>
+               <p>That the grievous oppreſſions by Tythes and forced maintenance for the miniſtry be re<g ref="char:EOLhyphen"/>moved, and that the more eaſie and evangelicall practice of contribution be granted and confirmed for the benefit of the Subject, and his freedome therein, for prevention of the Lordlineſſe, in and the Commoſions, oppreſſions and tyrannies, that might happen by the Clergy.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Reparations</head>
+               <p>That according to the Declarations and ingagements of this preſent Parliament every perſon and per<g ref="char:EOLhyphen"/>ſons whatſoever, which have ſuſtained any dammage or loſe in purſuance of the ſervice of the State, or by reaſon of their good affection thereunto, may have their Reparations accordingly.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Phiſitians.</head>
+               <p>That by the authority of this preſent Parliament, ſtrong proviſion be made, that all Practitioners in Phyſick from this time forward, write all their bills to the Apothecaries for their Patients in the Engliſh tongue, with<g ref="char:EOLhyphen"/>out all abreviations, unknowne Characters, or figures, ſtrange tearmes or titles, for their ingredients, whereby they uſe to blind the eyes of their Patients<g ref="char:punc">▪</g> and poſſeſſe them with ſtrange apprehentions of their receipts for their value and worth. And that all Apothecaries Drugs, Symples, Compoſitions and ingredients may be tituled
+<pb n="7" facs="tcp:35673:5"/>in their ſhops, on all their pots, glaſſes, and in all their bookes, bills, and writings for their Patients in their proper Engliſh Phraſe, and no otherwiſe upon a ſevere penalty. Thot the free men of England, may be freed and eaſed from the unreaſonable extortions and abuſes of Doctors and Apothecaries.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Schooles.</head>
+               <p>That all antient Donations for the maintenance and continuance of Free Schooles which are impropriate or converted to any private uſe, and all ſuch free Schooles which are deſtroyed or purloyned of any freedome for propriety may be reſtored and erected againe, and that in all parts or Counties of this Realme of England, and Dominion of Wales deſtitute of Free Schooles (for the due nurture and education of children, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>learning to write and read) may have a competent number of ſuch Schooles, founded, erected, and indowed at the publique charges of thoſe reſpective Counties and places ſo deſtitute, that few or none of the free men of England may for the future be ignorant of reading and writing.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Hoſpitalls.</head>
+               <p>That all antient charitable donations, towards the conſtant reliefe of the poor impropri<g ref="char:EOLhyphen"/>ate, and converted to other uſe, and all Hoſpitalls that are either impropriate, corrupted or vitiated from their primitive conſtitution and end, or be deprived of any of their franchiſe, profits or emoluments, may be reſtored, relieved, and rectified and ſafely preſerved to the reliefe and maintenance of poore Orphants, widowes, aged and impotent perſons, &amp;c. And that there be a convenient number of Hoſpitalls, founded, erected and conſtituted in all the Counties of England and Wales, at the publique charge of the reſpective Counties, for the good education and nurture of poore fatherleſſe or helpleſſe children, maintenance and re<g ref="char:EOLhyphen"/>liefe of poor widowes, aged, ſick, and lame perſons. And to that end, that all the Cleabe lands in the Kingdome, may be converted to the maintenance and uſe of thoſe charitable houſes.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Commons incloſed.</head>
+               <p>That all grounds which antiently lay in Common for the poore, and are now impro<g ref="char:EOLhyphen"/>priate, incloſed and fenced in, may forthwith (in whoſe hands ſoever they are) be caſt out and laid open againe to the free and common uſe and benefit of the poore.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Petitions.</head>
+               <p>That ſtrong proviſion be made that neither this honourable Court nor any inferior Court Officer, or Miniſter of the Law whatſoever, may in any wiſe let, diſturb, or moleſt any perſon or perſons, from contriuing, promoting or preſenting any petition or petitions concerning their grievances, liberties, to this honourable Houſe.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Delinquents.</head>
+               <p>That no Delinquents, nor any that hath adheared to the Enemy either in bearing. Armes or in giving contribution to the warre, be permitted to beare any Office or authority ei<g ref="char:EOLhyphen"/>ther Martiall or Civill in this Nation, neither to give any voice in the Election of any Offi<g ref="char:EOLhyphen"/>cer of State, and to that end that Commiſſioners may be directed to every County, to en<g ref="char:EOLhyphen"/>quire and certify, the names of all ſuch as have borne Armes, Office, or given contribution
+<pb n="8" facs="tcp:35673:6"/>to or for the Enemy, to the intent their names may be recorded both in the Exchecqure, and in the County Courts, that it may be known who by their delinquency have made themſelves uncable of either Vote or Voice. And that all ſuch as are all ready crept in, or ſtept up into any Office or authority, may be forthwith removed. And that all Offices of places and truſt of the Kingdome may be ſecured and ſetied onely in the hands of ſuch as are men approved faithfull to the freedomes of the Commoners of <hi>England.</hi> That all no<g ref="char:EOLhyphen"/>torious Delinquents, and Rebells to the State, with all ſuch as have betrayed their truſt, in the ſurrendering of any Towns, Forts, or Caſtles, or have underhand complyed with the Enemy, either by intelligence, contribution of moneyes or Armes, or otherwiſe, with all ſuch as are impeached with Articles exhibited in this Houſe, or which may lawfully be impeached, may be delivered up, and ſpeedily brought forth to a legall tryall.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Texes, Impoſts, Exciſe, &amp;c.</head>
+               <p>That for the eaſing of this Nation from the many great Aſſeſſements and taxes under which it groneth, That Commiſſioners under the great Seale, may be iſſued out for every County, to take the occompts of all Committees, and other Officers, who have been re<g ref="char:EOLhyphen"/>ceivers for the State, of moneyes that way rayſed in every County, City, Town, and Brough.</p>
+               <p>That the Impoſt or Exciſe, may not be any longer continued upon meat and drinke for prevention of Inſurrections, tumults, and mutanies, and for the eaſe and favour of the Poore.</p>
+               <p>That untill the publick debts be paid, there may be a due levying of the eſtates of all Delinquents in every County, who have not yet compounded and are not yet Sequeſtred.</p>
+               <p>And that none of them be admitted to compoſition, untill they ſhall have accomp<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> for the proffets of their Lands, from the time of their Reduction to the obedience of the Parliament.</p>
+            </div>
+            <div type="conclusion">
+               <p>
+                  <hi>Concluſion.</hi>
+               </p>
+               <p>And laſtly, (may it pleaſe this honourable Aſſembly) wee humbly deſire that all the Lawes, freedomes and properties of the People which are here preſented, or which ſhall be added hereunto, for the weale and ſafety of the People, may be with all expedient bre<g ref="char:EOLhyphen"/>vety digeſted, and collected into an orderly forme, and be granted, ratified, and con<g ref="char:EOLhyphen"/>firmed by this preſent Parliament, as the great Charter of Liberties and freedomes o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>England,</hi> to us and our poſterities for ever. And that a Book thereof be provided, and that it be printed in the Engliſh tongue, and a Booke thereof be provided for every Pariſh throughout the Realme, to be kept for the publick uſe and ſervice of the Inhabitants of every reſpective place, as oceaſion ſhall afford.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
